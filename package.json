@@ -1,0 +1,27 @@
+{
+  "name": "atljs",
+  "version": "0.0.1",
+  "description": "news from the atlanta javascript community",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atlJS/atlJS.git"
+  },
+  "keywords": [
+    "news",
+    "from",
+    "the",
+    "atlanta",
+    "javacript",
+    "community"
+  ],
+  "author": "iandoyle.pro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atlJS/atlJS/issues"
+  },
+  "homepage": "https://github.com/atlJS/atlJS#readme"
+}
